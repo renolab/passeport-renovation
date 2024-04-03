@@ -50,3 +50,14 @@ Septembre 2024
 ### Contact
 
 [Adrien Rosi Dit Rozzi](https://www.linkedin.com/in/adrienrosi/)
+
+## Feuille de route
+
+1. **Conceptualisation**
+2. Planification
+3. Conception
+4. Déploiement
+
+## Contribuer
+
+N'hésitez pas à échanger en créant de nouvelles [discussions](https://github.com/renolab/audit/discussions).
