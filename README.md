@@ -60,4 +60,4 @@ Septembre 2024
 
 ## Contribuer
 
-N'hésitez pas à échanger en créant de nouvelles [discussions](https://github.com/renolab/audit/discussions).
+N'hésitez pas à échanger en créant de nouvelles [discussions](https://github.com/renolab/passeport-renovation/discussions).
